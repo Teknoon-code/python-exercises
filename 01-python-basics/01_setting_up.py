@@ -1,4 +1,3 @@
-# Exercício 01 - Hello World
-# Curso: Codédex Python 
+# Write code below 💖
 
-print("Hi")
+print('Hi')
